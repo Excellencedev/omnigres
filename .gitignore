@@ -4,7 +4,6 @@ build
 build-linux
 cmake-build-debug
 .idea
-.vscode
 log
 results
 .DS_Store
@@ -25,3 +24,5 @@ __pycache__
 
 # pkgs
 *.rpm
+config.bat
+node_modules
